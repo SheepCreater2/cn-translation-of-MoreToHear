@@ -1,0 +1,35 @@
+{
+	"$schema": "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/translation_schema.json",
+	"DialogueDictionary": {
+		
+	},
+	"ShipLogDictionary": {
+		
+	},
+	"UIDictionary": {
+
+		"UNKNOWN2": "未知信号2",
+		"Eye Signal": "宇宙之眼",
+
+		"Statue": "雕像",
+		"Probe Statue": "探测器跟踪模块雕像",
+		"Museum Statue": "博物馆雕像",
+
+		"The Vessel": "飞船",
+		"Comet Shuttle": "闯入者上的飞船",
+		"Moon Shuttle": "量子卫星上的飞船",
+		"Sun Station": "太阳站",
+		"Nomai Radio": "挪麦无线电",
+		"Probe": "探测器",
+		"Island Statue": "雕像岛雕像",
+		"Emission": "白洞跃迁核心",
+		"Absorption": "黑洞跃迁核心",
+		"反引力推进": "跃迁平台",
+
+		"Ash Twin Mask": "余烬双星面具",
+    "Advanced Core": "高级跃迁核心"
+	},
+	"OtherDictionary": {
+		
+	}
+}
